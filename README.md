@@ -1,6 +1,3 @@
-Hier ist ein Vorschlag für deine **README.md** zu *SillyPlatformer*, inklusive dem von dir hochgeladenen Bild:
-
----
 
 # SillyPlatformer
 
