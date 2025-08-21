@@ -1,61 +1,55 @@
-
 # SillyPlatformer
 
 ![SillyPlatformer](/Pictures/Logo/SillyPlatformer.png)
 
-## 🎮 Über das Spiel
+## 🎮 About the Game
 
-*SillyPlatformer* ist ein **Metroidvania-Abenteuer**, in dem du die Rolle einer jungen, neugierigen weißen Katze übernimmst.
-Geboren in der farbenfrohen **Silly Dimension**, stolperst du versehentlich in einen düsteren Brunnen – und findest dich plötzlich in der **Serious Dimension** wieder.
+*SillyPlatformer* is a **Metroidvania adventure** where you play as **Lilly**, a young and curious white cat.
+Born in the colorful and chaotic **Silly Dimension**, Lilly accidentally falls into a dark well – only to find herself trapped in the bleak and gloomy **Serious Dimension**.
 
-Während in deiner Heimat alles bunt, verspielt und verrückt ist, ist die neue Welt von Schwermut, Ruinen und Bedrohung geprägt. Dein Ziel:
+In her home everything was playful and absurd, but here she must face shadows, ruins, and despair. Her goal:
 
-* Finde einen Weg zurück in deine Dimension
-* Überwinde Herausforderungen, die mehr erfordern als bloß „silly“ zu sein
-* Lerne, dass manchmal auch Ernsthaftigkeit wichtig ist
+* Find a way back to the Silly Dimension
+* Overcome challenges that require more than just silliness
+* Learn that sometimes seriousness is just as important as fun
 
 ---
 
 ## ✨ Features
 
-* **Zwei Dimensionen**: Wechsle zwischen Silly & Serious und erlebe völlig unterschiedliche Level-Atmosphären
-* **Metroidvania-Gameplay**: Erkunde, finde neue Fähigkeiten und kehre zu alten Orten zurück, um Geheimnisse zu entdecken
-* **Einzigartige Stimmung**: Kontrast zwischen quietschbunter Albernheit und finsterer Düsternis
-* **Katze als Heldin**: Wer könnte der Welt besser zeigen, dass Neugier nicht nur Silly, sondern auch mutig sein kann?
+* **Two Dimensions** – Venture out and explore two completely different dimensions with unique atmospheres
+* **Metroidvania Gameplay** – Explore, unlock new abilities, and return to old places to uncover secrets
+* **Unique Tone** – A sharp contrast between colorful chaos and dark melancholy
+* **A Cat as the Hero** – Lilly’s curiosity is both silly and brave, making her the perfect guide through two worlds
 
 ---
 
-## 🕹️ Steuerung
+## 🕹️ Controls
 
-*(Beispiel — bitte anpassen, falls du schon konkrete Tasten hast)*
+*(Example – adjust if you have specific bindings)*
 
-* **Pfeiltasten / WASD** – Bewegen
-* **Leertaste** – Springen
-* **E** – Aktion / Interaktion
-* **Shift** – Rennen
-* **Tab** – Dimension wechseln (Silly ↔ Serious)
+* **Arrow Keys / WASD** – Move
+* **Space** – Jump
+* **E** – Action / Interact
+* **Shift** – Run
 
 ---
 
 ## 🚀 Installation & Start
 
-1. Lade das Spiel herunter
-2. Entpacke den Ordner
-3. Starte die Datei **SillyPlatformer.exe** (Windows) oder **SillyPlatformer** (Linux/Mac)
+1. Download the game
+2. Extract the folder
+3. Launch **SillyPlatformer.exe** (Windows) or **SillyPlatformer** (Linux/Mac)
 
 ---
 
 ## 🌈 Inspiration
 
-*SillyPlatformer* verbindet das bunte Chaos klassischer Plattformer mit der düsteren Stimmung moderner Metroidvanias.
-Es erzählt eine Geschichte darüber, dass **Neugier, Albernheit und Ernsthaftigkeit zusammengehören**.
+*SillyPlatformer* blends the colorful chaos of classic platformers with the dark tone of modern Metroidvanias.
+At its heart, it’s a story about how **curiosity, silliness, and seriousness belong together**.
 
 ---
 
-## 📜 Lizenz
+## 📜 License
 
-Dieses Projekt ist urheberrechtlich geschützt. Nutzung, Modding oder Weitergabe nur nach Absprache mit dem Entwickler.
-
----
-
-Möchtest du, dass ich dir auch eine **kurze englische Version** für itch.io oder Steam schreibe, damit du beide Varianten parat hast?
+This project is protected by copyright. Use, modding, or redistribution only with the developer’s permission.
