@@ -4,7 +4,7 @@ Hier ist ein Vorschlag für deine **README.md** zu *SillyPlatformer*, inklusive 
 
 # SillyPlatformer
 
-![SillyPlatformer](/mnt/data/SillyPlatformer.png)
+![SillyPlatformer](/Pictures/Logo/SillyPlatformer.png)
 
 ## 🎮 Über das Spiel
 
